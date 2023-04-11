@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello!<br><br>My name is Augusto Nascimento<br><br>(SQL | PYTHON | PHP | HTML | CSS ) 🚀<br><br>I am a student of the Systems Analysis and Development course at the private institution <p>Confira o <a href="https://estacio.br/" target="_blank" rel="noopener noreferrer">Estácio</a>.</p>
+# 💫 Hello!
+<br>My name is Augusto Nascimento.<br><br>I'm currently focused on FULL STACK WEB development and that's why I'm studying: (SQL | PYTHON | PHP | HTML | CSS ) 🚀<br><br>I am a student of the Systems Analysis and Development course at the private institution @<a href="https://estacio.br/" target="_blank" rel="noopener noreferrer">Estácio</a>.
 
 
 
