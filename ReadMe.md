@@ -1,5 +1,9 @@
-# Hello!
-<br>My name is Augusto Nascimento.<br><br>I'm currently focused on FULL STACK WEB development and that's why I'm studying: (LINUX | PYTHON | DOCKER | TERRAFORM) 🚀<br><br>I am a student of the Systems Analysis and Development course at the private institution @<a href="https://estacio.br/" target="_blank" rel="noopener noreferrer">Estácio</a>.
+# Hi 👋, I'm Augusto Nascimento
+
+I'm currently focused on **Backend** development, and that's why I'm studying: **LINUX | PYTHON | DOCKER | TERRAFORM** 🚀
+
+I am a student of the Systems Analysis and Development course at the private institution [Estácio](https://estacio.br/).
+
 
 
 
