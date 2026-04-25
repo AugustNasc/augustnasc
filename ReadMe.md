@@ -39,6 +39,3 @@ I enjoy building reliable applications and working with modern infrastructure an
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustNasc&layout=compact&theme=tokyonight)
 
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=AugustNasc&icon=0&color=0)
