@@ -13,7 +13,7 @@ I am a student of the Systems Analysis and Development course at the private ins
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augustoalmeidadev/) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=python,aws,terraform,docker,linux,gitlab,githubactions,grafana&perline=8)](https://github.com/AugustNasc/)
+[![My Skills](https://skillicons.dev/icons?i=python,aws,linux,gitlab&perline=8)](https://github.com/AugustNasc/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AugustNasc&icon=0&color=0)](https://visitcount.itsvg.in)
